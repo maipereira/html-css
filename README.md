@@ -3,4 +3,4 @@
 
 Criações de sites e gerenciamento de repositorios
  
-<a href="https://maipereira.github.io/html-css/"></a>
+<a href="https://maipereira.github.io/html-css/exercicios/Exercicios/ex001/index.html"></a>
